@@ -186,5 +186,5 @@ def result():
 
 # Main function
 if __name__ == "__main__":
-    app.run(debug=True)
+    app.run(debug=False, host='0.0.0.0')
     app.config["TEMPLATES_AUTO_RELODE"] = True
