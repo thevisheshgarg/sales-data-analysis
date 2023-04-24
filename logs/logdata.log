@@ -1,0 +1,6 @@
+2023-04-25 01:20:51,627 Using datacenter 'us-east1' for DCAwareRoundRobinPolicy (via host '938a472f-df02-4711-b41a-d00762d1f9b5-us-east1.db.astra.datastax.com:29042:f6a1ab23-7757-4271-83c0-b0916af6c248'); if incorrect, please specify a local_dc to the constructor, or limit contact points to local cluster nodes
+2023-04-25 01:20:58,878 Creating Table In DataBase...
+2023-04-25 01:20:59,168 Table Already Created...
+2023-04-25 01:20:59,198  * Debugger is active!
+2023-04-25 01:20:59,204  * Debugger PIN: 856-288-371
+2023-04-25 01:20:59,250  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
